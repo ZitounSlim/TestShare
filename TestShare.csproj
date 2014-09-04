@@ -58,6 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="default.aspx" />
+    <Content Include="image\17.jpg" />
+    <Content Include="image\21.jpg" />
+    <Content Include="image\23.jpg" />
     <Content Include="test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
