@@ -1,0 +1,5 @@
+D:\testShare\TestShare\bin\TestShare.dll
+D:\testShare\TestShare\bin\TestShare.pdb
+D:\testShare\TestShare\obj\Debug\TestShare.csprojResolveAssemblyReference.cache
+D:\testShare\TestShare\obj\Debug\TestShare.dll
+D:\testShare\TestShare\obj\Debug\TestShare.pdb
