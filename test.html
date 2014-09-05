@@ -3,6 +3,10 @@
 <head>
     <title >Test slim zitooun</title>
     <!-- Facebook Open Graph --> 
+
+<!-- Facebook debuggage page--> 
+<!--    https://developers.facebook.com/tools/debug/og/object/ -->
+
 <meta property="fb:app_id" content="331032727059855" />
 <meta property="og:title" content="slim zitoun test" />
 <meta property="og:description" content="belle villa avec belle soum" />
@@ -15,7 +19,14 @@
    
 </head>
 <body>
-    <div id="fb-root"></div>
+   <div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&appId=331032727059855&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 <div>hello ha ha ha merda 2</div>
@@ -27,6 +38,8 @@
 
     </ul>
 
+
+    <div class="fb-share-button" data-href="http://cgbig.apphb.com/test.html"></div>
 </body>
 </html>
 
